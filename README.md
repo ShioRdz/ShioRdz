@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20Shiomara&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20ShiomaraRodriguez&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
 <h3 align="center">Estudiante de Ingenieria en Tecnologías de Software | Enfocada en Ciberseguridad</h3>
 
 <p align="center">
