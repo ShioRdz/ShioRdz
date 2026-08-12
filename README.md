@@ -1,6 +1,3 @@
-<h1 align="center">Hola, soy Shiomara Rodriguez pero me pueden decir Shio 👋</h1>
-<h3 align="center">Estudiante Ingeniero en Tecnologías de Software | Aprendiendo Ciberseguridad</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E6D7F2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20Shio&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
 
 <h3 align="center">Estudiante de Ingeniería en Administración de Sistemas | Aprendiendo Ciberseguridad</h3>
