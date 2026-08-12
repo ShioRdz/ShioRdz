@@ -1,17 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E6D7F2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20Shio&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
 
-<h3 align="center">Estudiante de Ingeniería en Administración de Sistemas | Aprendiendo Ciberseguridad</h3>
+<h3 align="center">Estudiante de Ingeniero en Tecnologías de Software | Aprendiendo Ciberseguridad</h3>
 
 <p align="center">
-  <!-- Reemplaza este link por el GIF que elijas (click derecho en el gif -> copiar dirección de imagen) -->
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3ZnZ2eWNvOWw3bWk0MDJ3cWdzZ3FreHlwczdpbnhuZGs5bmM0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fw1im4D3MOLJnqm8TZ/giphy.gif)">
-</p>
+  
+  <https://giphy.com/explore/cartoon-network> </p>
 
----
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de IAS, próximo a graduarme, especializándome en *ciberseguridad*
+- 🎓 Estudiante de ITS, próximo a graduarme, especializándome en *ciberseguridad*
 - 🔐 Actualmente practicando en *TryHackMe*
 - 💻 Experiencia con *ASP.NET (C#)* y *SQL Server*
 - 🧪 Armando mi propio home lab con Linux para practicar pentesting
