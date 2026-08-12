@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E6D7F2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20Shio&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
 
-<h3 align="center">Estudiante de Ingeniero en Tecnologías de Software | Aprendiendo Ciberseguridad</h3>
+<h3 align="center">Estudiante de Ingenieria en Tecnologías de Software | Aprendiendo Ciberseguridad</h3>
 
 <p align="center">
   
-  [<https://giphy.com/explore/cartoon-network> ](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWd1bGliZ3N4ejF0YzFyZDN0eG8wYjdvNmpkMnYxa2dwZG16Y2VoayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KGMlWkjdkJnGRcVg24/giphy.gif)</p>
+ ![descripcion](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWd1bGliZ3N4ejF0YzFyZDN0eG8wYjdvNmpkMnYxa2dwZG16Y2VoayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KGMlWkjdkJnGRcVg24/giphy.gif)
 
 
 ### 🚀 Sobre mí
