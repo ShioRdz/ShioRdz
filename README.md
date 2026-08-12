@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Ingenieria en Tecnologías de Software | Enfocada en Ciberseguridad</h3>
 
 <p align="center">
- <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amExczF3ODF1cDZoN2lkb3B3aDVqZDlnN3FvaWpuYnk2cGxqajJ6cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/12K8GGWstl229G/giphy.gif/> </p>
+ <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amExczF3ODF1cDZoN2lkb3B3aDVqZDlnN3FvaWpuYnk2cGxqajJ6cSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/12K8GGWstl229G/giphy.gif"/> </p>
 <p align="center">
   
   
