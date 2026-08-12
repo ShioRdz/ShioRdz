@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Reemplaza este link por el GIF que elijas (click derecho en el gif -> copiar dirección de imagen) -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA3ZnZ2eWNvOWw3bWk0MDJ3cWdzZ3FreHlwczdpbnhuZGs5bmM0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fw1im4D3MOLJnqm8TZ/giphy.gif)">
 </p>
 
 ---
