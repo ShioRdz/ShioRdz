@@ -1,17 +1,22 @@
-<h1 align="center">Hola, soy Shio 👋</h1>
+<h1 align="center">Hola, soy Shiomara Rodriguez pero me pueden decir Shio 👋</h1>
+<h3 align="center">Estudiante Ingeniero en Tecnologías de Software | Aprendiendo Ciberseguridad</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E6D7F2,100:FFD9E8&height=200&section=header&text=Hola,%20soy%20Shio&fontSize=45&fontColor=6B4E71&animation=fadeIn" width="100%"/>
+
 <h3 align="center">Estudiante de Ingeniería en Administración de Sistemas | Aprendiendo Ciberseguridad</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400">
+  <!-- Reemplaza este link por el GIF que elijas (click derecho en el gif -> copiar dirección de imagen) -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 Estudiante de IAS, próximo a graduarme, especializándome en **ciberseguridad**
-- 🔐 Actualmente practicando en **TryHackMe**
-- 💻 Experiencia con **ASP.NET (C#)** y **SQL Server**
+- 🎓 Estudiante de IAS, próximo a graduarme, especializándome en *ciberseguridad*
+- 🔐 Actualmente practicando en *TryHackMe*
+- 💻 Experiencia con *ASP.NET (C#)* y *SQL Server*
 - 🧪 Armando mi propio home lab con Linux para practicar pentesting
 - 📫 Cómo contactarme: (tu correo o Discord aquí)
 
@@ -55,5 +60,5 @@
 
 ### 📌 Proyectos destacados
 
-- **[Nombre del proyecto](link)** — breve descripción de qué hace
-- **[Nombre del proyecto](link)** — breve descripción de qué hace
+- *[Nombre del proyecto](link)* — breve descripción de qué hace
+- *[Nombre del proyecto](link)* — breve descripción de qué hace
