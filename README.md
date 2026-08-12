@@ -4,12 +4,7 @@
 
 <p align="center">
   
- ![descripcion](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZWd1bGliZ3N4ejF0YzFyZDN0eG8wYjdvNmpkMnYxa2dwZG16Y2VoayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/KGMlWkjdkJnGRcVg24/giphy.gif)
-<h1 align="center">Hola 👋 Soy Damian</h1>
-
-<p align="center">
-  <b>Ingeniería en Administración de Sistemas | ASP.NET & SQL Server Developer</b>
-</p>
+ ![descripcion](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBncnN4ejVlbHI1ZmZ3MnVoazVsZXVxZDN3bjJ3eHU5enh0M3Y2ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2xMd6BEs8DMrpfrOb5/giphy.gif))
 
 <p align="center">
   Explorando ciberseguridad 🔐
